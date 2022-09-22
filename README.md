@@ -1,7 +1,7 @@
 # Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 
 <!--
-**HackerstoyanovBG/HackerstoyanovBG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <img src="https://user-images.githubusercontent.com/112943652/191781142-ff434c07-7063-43db-96e6-630e083512ca.png" style="width: 350px">
 
 Here are some ideas to get you started:
 
