@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 😏 Pronouns: he/him
 - ⚡ Fun Fact: pro minecraft bedrock player
 
-<a href="https://github.com/MitkoVtori/Mitko.Vtori-personal-blog%22%3E" <img width="400px" alt="My GitHub Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=MitkoVtori&theme=radical&repo=Mitko.Vtori-personal-blog" /> </a>
+<a href="https://github.com/MitkoVtori/Mitko.Vtori-personal-blog" > <img width="400px" alt="My GitHub Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=MitkoVtori&theme=radical&repo=Mitko.Vtori-personal-blog" /> </a> 
