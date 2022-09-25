@@ -7,4 +7,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Programming
 - 👯 I’m collaborating with <a href="https://github.com/MitkoVtori" >Dimitar Dimitrov</a>
 - 😏 Pronouns: he/him
-- ⚡ Fun Fact: pro minecraft player
+- ⚡ Fun Fact: pro minecraft bedrock player
