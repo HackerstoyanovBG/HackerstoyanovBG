@@ -8,3 +8,4 @@ Here are some ideas to get you started:
 - 👯 I’m collaborating with <a href="https://github.com/MitkoVtori" >Dimitar Dimitrov</a>
 - 😏 Pronouns: he/him
 - ⚡ Fun Fact: pro minecraft bedrock player
+<img width="400px" alt="My GitHub Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=MitkoVtori&theme=radical&repo=Mitko.Vtori-personal-blog" />
