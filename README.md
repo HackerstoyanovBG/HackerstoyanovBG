@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on <a href="https://github.com/MitkoVtori/Mitko.Vtori-personal-blog" >Mitko.Vtori personal blog</a>
+- 🔭 I’m currently working on <a href="https://github.com/MitkoVtori/Mitko.Vtori-personal-blog" >Mitko.Vtori World</a>
 - 🌱 I’m currently learning Programming
 - 👯 I’m collaborating with <a href="https://github.com/MitkoVtori" >Dimitar Dimitrov</a>
 - 😏 Pronouns: he/him
