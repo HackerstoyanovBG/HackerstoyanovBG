@@ -10,3 +10,8 @@ Here are some ideas to get you started:
 - ⚡ Fun Fact: pro minecraft bedrock player
 
 <a href="https://github.com/MitkoVtori/Mitko.Vtori-personal-blog" > <img width="400px" alt="My GitHub Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=MitkoVtori&theme=radical&repo=Mitko.Vtori-personal-blog" /> </a> 
+<br>
+
+<img height="165em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HackerstoyanovBG&theme=aura&show_icons=true" />
+
+  <img height="165" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HackerstoyanovBG&layout=compact&theme=aura&text_color=00FFFB" />
